@@ -1,4 +1,4 @@
-### Olá eu sou o Douglas(Você não é o Douglas) 👋
+### Olá eu sou o Douglas 👋
 
 - 🔭 Hoje Trabalho como Front-end
 - 🌱 Estudando Angular e TypeScript
