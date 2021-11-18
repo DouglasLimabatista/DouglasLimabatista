@@ -1,4 +1,4 @@
-### Olá eu sou o Douglas 👋
+### Olá, eu sou o Douglas 👋
 
 - 🔭 Hoje Trabalho como Front-end
 - 🌱 Estudando React, Angular e TypeScript
