@@ -1,6 +1,6 @@
 ### Olá, eu sou o Douglas 👋
 
-- 🔭 Hoje Trabalho como Front-end
+- 🔭 Hoje Trabalho como Desenvolvedor Front-end
 - 🌱 Estudando React, Angular e TypeScript
 - 📫 Contate-me no Email: DouglasL.batista@hotmail.com
 - ⚡ Sempre Buscando Evoluir em Todas as Áreas da Minha Vida
