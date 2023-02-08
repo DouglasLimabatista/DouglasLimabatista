@@ -24,6 +24,7 @@
   <div>
      <a href="https://www.linkedin.com/in/douglas-de-lima-06635921b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
      <a href = "mailto:DouglasL.batista@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+     <a href="https://portfolio-mjb1iylgq-douglaslimabatista.vercel.app/" target="_blank"><img src=https://img.shields.io/badge/-Portf%C3%B3lio-orange" target="_blank"></a> 
     
   </div>
   
